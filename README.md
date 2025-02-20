@@ -32,18 +32,5 @@ This repository contains a list of publicly available off-road datasets that can
 - **Conditions:** Includes various scenes (woodland, farmland, grassland, countryside), weather conditions (sunny, rainy, foggy, snowy), and lighting conditions (bright light, daylight, twilight, darkness).
 - **Access:** [ORFD Dataset](https://github.com/chaytonmin/Off-Road-Freespace-Detection)
 
-### 6. USDA Forest Service Motor Vehicle Use Maps (MVUM)
-- **Description:** Data on roads and trails within National Forest System lands where motorized use is allowed.
-- **Details:** Includes vehicle type permissions and seasons of use.
-- **Access:** [USDA Forest Service Datasets](https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=mvum)
-
-### 7. Bureau of Land Management (BLM) Off-Highway Vehicle Designations
-- **Description:** Information on off-highway vehicle (OHV) designated areas managed by the Bureau of Land Management (BLM).
-- **Access:** [BLM Off-Highway Vehicle Designations](https://catalog.data.gov/dataset/?_metadata_type_limit=0&_tags_limit=0&bureauCode=010%3A04&metadata_type=geospatial&q=Vehicles&res_format=HTML&tags=off-highway-vehicle)
-
-### 8. XenomatiX Road Data
-- **Description:** Provides 3D geometrical data, intensity data, camera images, and GPS information for various terrains, including off-road environments.
-- **Analysis:** Includes roughness, pothole index, crack index, and road markings.
-- **Access:** [XenomatiX Road Data](https://xenomatix.com/lidar/road-data/)
 
 
